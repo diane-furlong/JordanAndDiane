@@ -28,9 +28,65 @@ body {
     color: #fff;
     text-decoration: none;
   }
+
+  #allcontent {
+    margin: 2%;
+    height: 100%;
+  }
   
+  #home {
+    text-align: center;
+    font-family: 'adelio darmanto'
+  }
+
   #titleline {
-    font-size: 35pt;
+    font-size: 80px;
+    margin-bottom: 0;
+    color: teal;
+  }
+
+  .date {
+    font-family: 'roseblue';
+    font-size: 35px;
+    margin-top: 0;
+  }
+
+  .sectionTitle {
+    font-family: 'roseblue';
+    font-size: 30px;
+    text-align: center;
+  }
+
+  h3 {
+    font-family: 'roseblue';
+    font-size: 25px;
+  }
+
+  #overview {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+  }
+
+  #intro {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+  }
+
+  #events {
+    display: flex;
+    justify-content: center;
+  }
+
+  .itinerarylist a{
+    color: teal;
+  }
+
+  #follow {
+    display: flex;
+    justify-content: center;
   }
 
   #image1 {
@@ -39,6 +95,16 @@ body {
 
   #image2 {
     width: 15%;
+  }
+
+  #rsvp {
+    display: flex;
+    justify-content: center;
+  }
+
+  #contact {
+    display: flex;
+    justify-content: center;
   }
 
   main {
