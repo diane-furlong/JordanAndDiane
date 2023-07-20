@@ -150,6 +150,7 @@ h3 {
 #contact {
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 
 main {
